@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://ononnobit.vercel.app/logo.png" alt="OnonnoBit Logo" width="80" />
-
 # OnonnoBit
 
 ### Building Unique Web Solutions

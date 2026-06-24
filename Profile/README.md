@@ -241,7 +241,7 @@ const OnonnoBit = {
 
 <div align="center">
 
-<img width="100%" src="./lang-chart.svg" alt="Most Used Languages Chart" />
+<img width="100%" src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/lang-chart.svg" alt="Most Used Languages Chart" />
 
 </div>
 

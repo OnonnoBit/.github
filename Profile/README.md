@@ -241,7 +241,7 @@ const OnonnoBit = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<img width="100%" src="./lang-chart.svg" alt="Most Used Languages Chart" />
 
 </div>
 

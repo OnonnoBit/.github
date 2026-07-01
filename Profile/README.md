@@ -26,8 +26,8 @@ const OnonnoBit = {
   location    : "Bogura, Bangladesh (Remote)",
   website     : "https://ononnobit.vercel.app",
   email       : "ononnobit@gmail.com",
-  phone       : "+8809638845910",
-  whatsapp    : "+8801712525910",
+  phone       : "+8801763822211",
+  whatsapp    : "+8801763822211",
   services    : [
     "Custom Web App Development",
     "LMS Solutions",
@@ -94,7 +94,7 @@ const OnonnoBit = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://zupramart.netlify.app">ZupraMart</a></h3>
+      <h3>🛒 <a href="https://bitqraft.netlify.app/">BitQraft</a></h3>
       <p>Full-featured e-commerce platform with product listings, cart, and checkout system.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -108,7 +108,7 @@ const OnonnoBit = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 <a href="https://darpan-academy.netlify.app">Darpan Academy</a></h3>
+      <h3>🎓 <a href="https://upcoach.netlify.app">UpCoach</a></h3>
       <p>Ed-tech platform delivering courses, content, and learning management tools.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -276,7 +276,7 @@ const OnonnoBit = {
 </div>
 
 <div align="center">
-<sub>📍 Bogura, Bangladesh (Remote) &nbsp;|&nbsp; 📞 +8809638845910 &nbsp;|&nbsp; 💬 WhatsApp: +8801712525910</sub>
+<sub>📍 Bogura, Bangladesh (Remote) &nbsp;|&nbsp; 📞 +8801763822211 &nbsp;|&nbsp; 💬 WhatsApp: +8801763822211</sub>
 </div>
 
 ---

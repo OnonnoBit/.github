@@ -12,8 +12,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Bogura,%20Bangladesh-2563eb?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/RidoanDev?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
-
 <br/>
 
   <p align="center">

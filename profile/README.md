@@ -147,7 +147,7 @@ Our team holds certifications across web development, cybersecurity, AI/ML, and 
 ### 👤 Founder
 
 <div align="left">
-  <img src="https://ononnobit.vercel.app/icon.png" width="70" align="right">
+  <img src="https://ridoan-zisan.netlify.app/profile.jpg" width="70" align="right">
   <p><strong>Md Ridoan Mahmud Zisan</strong> — Founder & Web Application Developer</p>
   <p>Specializes in React, Firebase, Kotlin, and business automation. Passionate about building impactful software for global users.</p>
   <p>🌐 <a href="https://ridoan-zisan.netlify.app">Portfolio</a> &nbsp;|&nbsp; 💼 <a href="https://linkedin.com/in/ridoan-zisan">LinkedIn</a> &nbsp;|&nbsp; 🐙 <a href="https://github.com/RidoanDev">GitHub</a></p>
